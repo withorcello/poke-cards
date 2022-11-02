@@ -4,14 +4,14 @@ This repository contains a [Single Page Application](https://vuejs.org/guide/ext
 The project uses a build setup based on [Vite](https://vitejs.dev/) that allows using Vue [Single-File Components (SFCs)](https://vuejs.org/guide/scaling-up/sfc.html).
 ## Screenshots
 
-# Initial Vision
+### Initial Vision
 ![logo](./public/screenshot-initial.png)
-# Stats
+### Stats
 To view the status of the letter just click on it.
 ![logo](./public/screenshot-stats.png)
-# Evolutions
+### Evolutions
 To view pokemon evolutions just click on the evolutions button.
-![logo](./public/screenshot-stats.png)
+![logo](./public/screenshot-evolutions.png)
 *To reset the listing just search.
 ## Recommended IDE Setup
 
