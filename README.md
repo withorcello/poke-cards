@@ -19,7 +19,7 @@ To view the status of the letter just click on it.
 
 To view pokemon evolutions just click on the evolutions button.
 
-<img style="width: 70%" src="./public/screenshot-initial.png" />
+<img style="width: 70%" src="./public/screenshot-evolutions.png" />
 
 *To reset the listing just search.
 
