@@ -1,8 +1,8 @@
 {
-  "name": "desafio-copybase",
-  "version": "0.0.0",
+  "name": "poke-cards",
+  "version": "1.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host",
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
